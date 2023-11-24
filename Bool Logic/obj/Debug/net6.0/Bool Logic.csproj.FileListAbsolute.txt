@@ -12,3 +12,18 @@ C:\Users\User\source\repos\Bool Logic\Bool Logic\obj\Debug\net6.0\refint\Bool Lo
 C:\Users\User\source\repos\Bool Logic\Bool Logic\obj\Debug\net6.0\Bool Logic.pdb
 C:\Users\User\source\repos\Bool Logic\Bool Logic\obj\Debug\net6.0\Bool Logic.genruntimeconfig.cache
 C:\Users\User\source\repos\Bool Logic\Bool Logic\obj\Debug\net6.0\ref\Bool Logic.dll
+C:\Users\wlade\Source\Repos\BoolOperations\Bool Logic\obj\Debug\net6.0\Bool Logic.csproj.AssemblyReference.cache
+C:\Users\wlade\Source\Repos\BoolOperations\Bool Logic\obj\Debug\net6.0\Bool Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wlade\Source\Repos\BoolOperations\Bool Logic\obj\Debug\net6.0\Bool Logic.AssemblyInfoInputs.cache
+C:\Users\wlade\Source\Repos\BoolOperations\Bool Logic\obj\Debug\net6.0\Bool Logic.AssemblyInfo.cs
+C:\Users\wlade\Source\Repos\BoolOperations\Bool Logic\obj\Debug\net6.0\Bool Logic.csproj.CoreCompileInputs.cache
+C:\Users\wlade\Source\Repos\BoolOperations\Bool Logic\obj\Debug\net6.0\Bool Logic.dll
+C:\Users\wlade\Source\Repos\BoolOperations\Bool Logic\obj\Debug\net6.0\refint\Bool Logic.dll
+C:\Users\wlade\Source\Repos\BoolOperations\Bool Logic\obj\Debug\net6.0\Bool Logic.pdb
+C:\Users\wlade\Source\Repos\BoolOperations\Bool Logic\bin\Debug\net6.0\Bool Logic.exe
+C:\Users\wlade\Source\Repos\BoolOperations\Bool Logic\bin\Debug\net6.0\Bool Logic.deps.json
+C:\Users\wlade\Source\Repos\BoolOperations\Bool Logic\bin\Debug\net6.0\Bool Logic.runtimeconfig.json
+C:\Users\wlade\Source\Repos\BoolOperations\Bool Logic\bin\Debug\net6.0\Bool Logic.dll
+C:\Users\wlade\Source\Repos\BoolOperations\Bool Logic\bin\Debug\net6.0\Bool Logic.pdb
+C:\Users\wlade\Source\Repos\BoolOperations\Bool Logic\obj\Debug\net6.0\Bool Logic.genruntimeconfig.cache
+C:\Users\wlade\Source\Repos\BoolOperations\Bool Logic\obj\Debug\net6.0\ref\Bool Logic.dll
